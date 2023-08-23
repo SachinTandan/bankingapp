@@ -2,6 +2,15 @@ body {
     margin: 0px;
     padding: 0px;
 }
-.fixed{
+
+.flex {
+    display: flex;
+}
+
+.fixed {
     position: fixed;
+}
+
+.bl {
+    display: block;
 }
